@@ -1,0 +1,5 @@
+{
+  "name": "Foundry VTT Forbidden Lands Converter do Urso",
+  "description": "A specialized tool for Tabletop RPG Game Masters to convert raw text from rulebooks into Foundry VTT compatible JSON format for Talents and Spells.",
+  "requestFramePermissions": []
+}
